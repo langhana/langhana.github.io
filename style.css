@@ -161,11 +161,17 @@ hr {
  text-align: justifiy;
 }
 
+
 .left{
   display: block;
   float: left;
-  width: 50%;
-  margin-right: 60px;
+  width: 22%;
+  margin-right: 100px;
+}
+
+div.left img{
+  width:336px;
+  height: 220px;
 }
 
 .right{
@@ -381,10 +387,12 @@ img.floatleft {
  background: url(images/check.gif) no-repeat 0% 50%; margin: 0; padding: 0 0 0 14px;
 }
 
+
 table {
+  margin-top: 50px;
   text-align: left;
   padding-bottom: 50px;
-
+  width: auto;
 }
 
 table th {

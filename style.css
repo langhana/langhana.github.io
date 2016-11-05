@@ -169,9 +169,13 @@ hr {
   margin-right: 100px;
 }
 
+div.massages.left{
+  margin-top: 50px;
+}
+
 div.left img{
-  width:336px;
-  height: 220px;
+  width:280px;
+  height: 200px;
 }
 
 .right{

@@ -173,6 +173,10 @@ div.massages.left{
   margin-top: 50px;
 }
 
+div.massages img {
+  padding-bottom: 5px;
+}
+
 div.left img{
   width:280px;
   height: 200px;
@@ -196,6 +200,10 @@ img.right {
 .description{
 	padding: 15px 0 15px 0;
 	text-align: justify;
+}
+
+div.asana img {
+  padding-bottom: 5px;
 }
 
 .caption {

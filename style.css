@@ -207,7 +207,9 @@ div.asana img {
 }
 
 div.organizer img {
-    padding-bottom: 100px;
+    padding-bottom: 5px;
+    width:280px;
+    height: 200px;
 }
 .caption {
  color: #000; font: 21px "Times New Roman", Times, serif; margin: 0; padding: 0 0 25px 0;

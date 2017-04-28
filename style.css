@@ -161,6 +161,11 @@ hr {
  text-align: justifiy;
 }
 
+#ayurveda div.left img {
+  margin-top: 10%;
+  width: 40%
+  height:40%
+}
 
 .left{
   display: block;
@@ -206,10 +211,8 @@ div.asana img {
   padding-bottom: 5px;
 }
 
-div.organizer img {
-    padding-bottom: 5px;
-    width:500px;
-    height: 350px;
+#contact div.left img {
+  margin-top: 10%;
 }
 .description{
 	padding: 15px 0 15px 0;
